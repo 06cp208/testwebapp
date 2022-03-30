@@ -4,5 +4,6 @@
   <?php 
     echo "<h1>This is my first web app in php</h1>";
   ?>
+  <a href="second.php">Next</a>
 </body>
 </html>
